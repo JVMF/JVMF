@@ -7,4 +7,4 @@
       
 - 📊 Portfólio: https://jvmf.github.io
 
-- 📚 Quero colaborar em projetos de física médica, como controle de qualidade e dosimetria / I’d like to collaborate on medical physics projects, as quality control and dosimetry
+- 📈 Quero colaborar em projetos de física médica, como controle de qualidade e dosimetria / I’d like to collaborate on medical physics projects, as quality control and dosimetry
