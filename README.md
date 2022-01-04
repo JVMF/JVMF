@@ -7,7 +7,5 @@
       
 - 📊 Portfólio: https://jvmf.github.io
 
-- 📚 I’m looking to collaborate on medical physics programs, specially on quality control and dosimetry protocols
-
-- 💬 Email: jvitorfernandez@gmail.com
+- 📚 Quero colaborar em projetos de física médica, especialmente controle de qualidade e dosimetria / I’m looking to collaborate on medical physics projects, like quality control and dosimetry
 
