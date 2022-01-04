@@ -6,3 +6,5 @@
 - 📊 I’m looking to collaborate on medical physics programs, specially on quality control and dosimetry protocols
 - 📚 You could ask me about radiotherapy, nuclear physics and artificial intelligence on healthcare. 
 - 💬 Contact me: jvitorfernandez@gmail.com
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
