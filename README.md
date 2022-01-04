@@ -1,5 +1,5 @@
-### Olá! /  Hi there! 
-## Eu sou João Vitor Martins Fernandez
+## Olá! /  Hi there! 
+### Eu sou João Vitor Martins Fernandez
 
 - ☢️ B.Sc Medical Physicist
 - 👨‍💻 Currently working on artificial intelligence applied on health: https://jvmf.github.io
