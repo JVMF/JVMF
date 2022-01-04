@@ -1,7 +1,7 @@
 ## Olá! /  Hi there! 
-### Eu sou João Vitor Martins Fernandez
+### Eu sou / I am João Vitor Martins Fernandez
 
-- ☢️ B.Sc Medical Physicist
+- ☢️ Físico Médico / B.Sc Medical Physicist
 
 - 👨‍💻 Estudando aplicações de IA na saúde / Currently studying health applications of artificial intelligence
       
