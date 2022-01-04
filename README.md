@@ -1,4 +1,5 @@
-### Olá! Sejam todos bem vindos! /  Hi there! Be welcome! 🖖🏼
+### Olá! Sejam todos bem vindos! /  Hi there! Be welcome! 
+🖖🏼
 
 <!--
 **JVMF/JVMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
