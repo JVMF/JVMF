@@ -7,4 +7,4 @@
 - 📚 You could ask me about radiotherapy, nuclear physics and artificial intelligence on healthcare. 
 - 💬 Contact me: jvitorfernandez@gmail.com
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.md
