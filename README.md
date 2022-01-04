@@ -4,7 +4,7 @@
 - ☢️ B.Sc Medical Physicist
 - 👨‍💻 Currently working on artificial intelligence applied on health: https://jvmf.github.io
   
-  <img src="https://www.linkedin.com/in/joão-vitor-fernandez-31540a94/user?username=João Vitor Fernandez" />
+  <img src="https://www.linkedin.com/in/joão-vitor-fernandez-31540a94/user?username=joão-vitor-fernandez" />
 
 
 - 📊 I’m looking to collaborate on medical physics programs, specially on quality control and dosimetry protocols
