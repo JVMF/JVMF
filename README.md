@@ -3,7 +3,7 @@
 
 - ☢️ Físico Médico / B.Sc Medical Physicist
 
-- 👨‍💻 Estudando aplicações de IA na saúde / Currently studying health applications of artificial intelligence
+- 👨‍💻 Estudando aplicações de IA na radioterapia / Currently studying radiotherapy applications of artificial intelligence
       
 - 📊 Portfólio: https://jvmf.github.io
 
