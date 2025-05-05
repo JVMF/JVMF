@@ -1,7 +1,7 @@
 ## Olá! /  Hi there! 
 ### Eu sou / I am João Vitor Martins Fernandez
 
-- ☢️ Físico Médico Especialista em Radioterapia / B.Sc Medical Physicist Radiotherapy Specialist
+- ☢️ Físico Médico Especialista em Radioterapia / B.Sc  Radiotherapy Medical Physicist Specialist
 
 - 👨‍💻 Estudando aplicações de IA na radioterapia / Currently studying radiotherapy applications of artificial intelligence
       
